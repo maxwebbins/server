@@ -1,12 +1,18 @@
-
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "John",
+      "message": "Hello there!",
+      "followed": true,
+      "cityName": "Moscow"
+    },
+    {
+      "id": 2,
+      "name": "Sam",
+      "message": "Hello there!",
+      "followed": false,
+      "cityName": "London"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
