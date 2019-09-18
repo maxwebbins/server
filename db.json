@@ -5,14 +5,22 @@
       "name": "John",
       "message": "Hello there!",
       "followed": true,
-      "cityName": "Moscow"
+      "cityName": "Moscow",
+      "avatar": {
+        "small": null,
+        "large": null
+      }
     },
     {
       "id": 2,
       "name": "Sam",
       "message": "Hello there!",
       "followed": false,
-      "cityName": "London"
+      "cityName": "London",
+      "avatar": {
+        "small": null,
+        "large": null
+      }
     }
   ]
 }
