@@ -23,4 +23,13 @@
       }
     }
   ]
+  "toDo": {
+    "tasks": [
+      {"id": 1, "content": 'Throw off garbage', "date": '19-9-1789 16:10:16', "completed": true, "visible": true},
+      {"id": 2, "content": 'Take pills', "date": '19-9-1864 16:10:9', "completed": false, "visible": true}
+    ],
+    "text": '',
+    "filter": 'all',
+    "currentID": 3
+  }
 }
