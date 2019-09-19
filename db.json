@@ -28,7 +28,7 @@
       {"id":1,"content":"Throw off garbage","date":"","completed":true,"visible":true},
       {"id":2,"content":"Take pills","date":"","completed":false,"visible":true}],
     "text":"",
-    "filter":"incompleted",
+    "filter":"all",
     "currentID":3
   }
 }
