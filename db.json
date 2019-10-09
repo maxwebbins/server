@@ -18,13 +18,18 @@
     {
       "id": 2,
       "name": "Sam",
-      "message": "Hello there!",
+      "message": "The Emperor protects!",
       "followed": false,
       "cityName": "London",
       "avatar": {
         "small": null,
         "large": null
-      }
+      },
+      "posts": [
+        {"id": 1, "message": "Hello! This is Sam", "likes": 10}, 
+        {"id": 2, "message": "Second post test!", "likes": 3},
+        {"id": 3, "message": "Third post test!", "likes": 4}
+      ]
     }
   ],
   "toDo": {
